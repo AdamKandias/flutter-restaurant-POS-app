@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929263022051",
+    "project_id": "pos-restaurant-134b2",
+    "storage_bucket": "pos-restaurant-134b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929263022051:android:7dd42100690a5bc5cc3ad6",
+        "android_client_info": {
+          "package_name": "com.example.pos_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929263022051-jo9dq6us6p2u30kmbd3dccs2620e87s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwCwuiBGIslvTsqiOu5afbu3Cf7jjqpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929263022051-jo9dq6us6p2u30kmbd3dccs2620e87s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
